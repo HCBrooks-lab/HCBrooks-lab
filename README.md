@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm H. Brooks 👋
 
-<!--
-**HCBrooks-lab/HCBrooks-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst focused on SQL, Python, and data visualization. I enjoy exploring datasets and translating data into meaningful insights. 
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- SQLite
+- Jupyter Notebook
+- VS Code
+- Excel
+
+## Featured Projects
+
+### Diabetes Health Indicators Analysis *(in-progress)*
+ETL pipeline and SQL analysis exploring diabetes prevalence across demographic groups. 
+
+### NOLA Occupational License Analysis
+Exploratory data analysis of New Orleans occupational business license data. 
+
+### Junior DBA SQL Practice
+SQL queries and database fundamentals demonstrating core relational database concepts. 
+
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/h-b-634800192
+
