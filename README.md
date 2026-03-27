@@ -29,7 +29,8 @@ SQL queries and database fundamentals demonstrating core relational database con
 
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/h-b-634800192
-Portfolio: https://hcbrooks-lab.github.io/nola_business_license_analysis
+
+- LinkedIn: https://www.linkedin.com/in/h-b-634800192/  
+- Portfolio: https://hcbrooks-lab.github.io/nola_business_license_analysis/
 
 
