@@ -18,7 +18,7 @@ Aspiring Data Analyst focused on SQL, Python, and data visualization. I enjoy ex
 
 ## Featured Projects
 
-### Diabetes Health Indicators Analysis *(in-progress)*
+### Diabetes Health Indicators Analysis
 ETL pipeline and SQL analysis exploring diabetes prevalence across demographic groups. 
 
 ### NOLA Occupational License Analysis
