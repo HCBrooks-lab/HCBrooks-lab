@@ -24,13 +24,10 @@ ETL pipeline and SQL analysis exploring diabetes prevalence across demographic g
 ### NOLA Occupational License Analysis
 Exploratory data analysis of New Orleans occupational business license data. 
 
-### Junior DBA SQL Practice
-SQL queries and database fundamentals demonstrating core relational database concepts. 
+###A U.S. Tech Job Market Analysis
+Exploratory analysis and Tableau visualization project examining high-demand tech roles, hiring patterns, and job title distribution across technology postings. 
 
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/h-b-634800192/  
+## View One of My Repos 
 - Portfolio: https://hcbrooks-lab.github.io/nola_business_license_analysis/
 
 
