@@ -15,6 +15,7 @@ Aspiring Data Analyst focused on SQL, Python, and data visualization. I enjoy ex
 - Jupyter Notebook
 - VS Code
 - Excel
+- Tableau Public
 
 ## Featured Projects
 
