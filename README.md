@@ -8,7 +8,10 @@ Aspiring Data Analyst focused on SQL, Python, and data visualization. I enjoy ex
 - Pandas
 - Data Cleaning
 - Data Visualization
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- ETL Process
+- Data Storytelling
 
 ## Tools
 - SQLite
@@ -16,6 +19,9 @@ Aspiring Data Analyst focused on SQL, Python, and data visualization. I enjoy ex
 - VS Code
 - Excel
 - Tableau Public
+- Power BI
+- Tableau Public
+- GitHub & GitHub Desktop 
 
 ## Featured Projects
 
