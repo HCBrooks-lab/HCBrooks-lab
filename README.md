@@ -34,4 +34,6 @@ Exploratory data analysis of New Orleans occupational business license data.
 ### U.S. Tech Job Market Analysis
 Exploratory analysis and Tableau visualization project examining high-demand tech roles, hiring patterns, and job title distribution across technology postings. 
 
+**Link to Tableau Public:** https://public.tableau.com/app/profile/h.brooks/viz/USTechJobMarketDashboard/USTechJobMarketDashboard
+
 **Have A Great Day!**
