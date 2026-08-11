@@ -31,9 +31,8 @@ ETL pipeline and SQL analysis exploring diabetes prevalence across demographic g
 ### NOLA Occupational License Analysis
 Exploratory data analysis of New Orleans occupational business license data. 
 
-### U.S. Tech Job Market Analysis
-Exploratory analysis and Tableau visualization project examining high-demand tech roles, hiring patterns, and job title distribution across technology postings. 
+**Link to Tableau Public:** 
+[Open the Jupyter Notebook](https://github.com/HCBrooks-lab/diabetes_health_indicator/blob/main/notebooks/diabetes_health_exploratory_analysis.ipynb)
 
-**Link to Tableau Public:** https://public.tableau.com/app/profile/h.brooks/viz/USTechJobMarketDashboard/USTechJobMarketDashboard
 
 **Have A Great Day!**
