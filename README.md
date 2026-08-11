@@ -32,7 +32,7 @@ ETL pipeline and SQL analysis exploring diabetes prevalence across demographic g
 Exploratory data analysis of New Orleans occupational business license data. 
 
 **Link to Tableau Public:** 
-[Open the Jupyter Notebook](https://github.com/HCBrooks-lab/diabetes_health_indicator/blob/main/notebooks/diabetes_health_exploratory_analysis.ipynb)
+[Open Tableau Public](https://public.tableau.com/views/HealthIndicatorAnalysis/DiabetesHealthIndicatorDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 **Have A Great Day!**
