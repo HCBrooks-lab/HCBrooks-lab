@@ -25,11 +25,15 @@ Aspiring Data Analyst focused on SQL, Python, and data visualization. I enjoy ex
 
 ## Featured Projects
 
+### Student Performance Analysis
+SQLite, SQL, and Tableau analysis examining factors associated with student grades. 
+
 ### Diabetes Health Indicators Analysis
 ETL pipeline and SQL analysis exploring diabetes prevalence across demographic groups. 
 
 ### NOLA Business License Analysis
 Exploratory data analysis of New Orleans occupational business license data. 
+
 
 **Link to Tableau Public: New Orleans Business License Analysis** 
 [Open Tableau Public](https://public.tableau.com/views/HealthIndicatorAnalysis/DiabetesHealthIndicatorDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
